@@ -1,4 +1,4 @@
-import face_recognition
+#import face_recognition
 from flask import Flask, jsonify, request
 import json 
 app = Flask(__name__)
